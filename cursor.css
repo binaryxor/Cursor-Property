@@ -37,6 +37,29 @@ div.grab{
     cursor: grab;
 }
 
+div.alias{
+    cursor:alias;
+}
+
+div.pointer{
+    cursor:pointer;
+}
+
+div.copy{
+    cursor:copy;
+}
+
+div.not-allowed{
+    cursor:not-allowed;
+}
+
+div.cell{
+    cursor:cell;
+}
+
+div.no-drop{
+    cursor: no-drop;
+}
 .wrapper{
     display: flex;
     flex-wrap: wrap;
