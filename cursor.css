@@ -38,23 +38,23 @@ div.grab{
 }
 
 div.alias{
-    cursor:alias;
+    cursor: alias;
 }
 
 div.pointer{
-    cursor:pointer;
+    cursor: pointer;
 }
 
 div.copy{
-    cursor:copy;
+    cursor: copy;
 }
 
 div.not-allowed{
-    cursor:not-allowed;
+    cursor: not-allowed;
 }
 
 div.cell{
-    cursor:cell;
+    cursor: cell;
 }
 
 div.no-drop{
